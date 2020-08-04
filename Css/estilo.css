@@ -1,0 +1,82 @@
+:root{
+    --amarillo: #ffbb00;
+    --fondo: #292929;
+}
+
+* {
+    margin:  auto;
+    padding:  0;
+    box-sizing: border-box;
+   
+    
+}
+
+body{
+    background: var(--fondo);
+    font-family: 'Anton', sans-serif;
+    
+}
+
+.Titulo{
+
+    margin-left: 20%;
+    
+}
+
+.cuadro{
+    
+    margin-left: 38%
+    
+}
+.Fondo
+{
+    background-color: rgb(255, 0, 157);
+    margin-top: 20%;
+    height: 110%;
+    position: static;
+    
+}
+.Contenido{
+    
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    width: 90%;
+    
+   
+    font-size: 20px;
+    
+    
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 100px;
+    margin-left: 35%;
+}
+
+p{
+    
+    margin: 15px;
+    
+}
+
+.Video{
+    margin-left: 28%;
+    margin-top: 5%;
+    
+    
+}
+
+.Final{
+    margin-top: 20%;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    
+}
+
+
+
+h2{
+    color: rgb(255, 174, 0);
+    margin-left: 5%;
+}
